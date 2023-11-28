@@ -8,6 +8,10 @@ It has three parts , TeamServer , Handlers and Agents
 
 Handlers send commands to TeamServer and forwards said commands to agent, agent sends data back down the chain and the handlers will get it.
 
+Note :
+The agent spawns a shell to run , this is not safe by far if your goal is concealment.
+This is a work in progress
+
 Instructions
 
 1. Run TeamServer
