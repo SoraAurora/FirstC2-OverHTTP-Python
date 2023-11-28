@@ -50,3 +50,5 @@ if __name__ == '__main__':
             time.sleep(check_in_time*2)
             get_response_res = command_handler.get_response(agentid)
             print(get_response_res['result'])
+        elif option == 0:
+            exit = False
