@@ -2,7 +2,7 @@
 
 ![Screenshot 2023-11-29 033018](https://github.com/SoraAurora/FirstC2-OverHTTP-Python/assets/91508322/da377ebf-723d-45a3-a779-7f4ed8c798ca)
 
-Yet another C2 in python :D , This is my first C2 Over http protocol.
+This is my first C2 Over http protocol.
 
 It has three parts , TeamServer , Handlers and Agents
 
