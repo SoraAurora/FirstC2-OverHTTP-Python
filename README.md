@@ -20,5 +20,6 @@ Instructions
 
 To kill an agent simply send the command 'kill' to said agents.
 
-
-
+Change Log:
+12/7/2023
+Added ability to Control C2 Server through Discord Bots
