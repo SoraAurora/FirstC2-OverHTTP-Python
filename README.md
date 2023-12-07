@@ -2,7 +2,7 @@
 
 ![Screenshot 2023-11-29 033018](https://github.com/SoraAurora/FirstC2-OverHTTP-Python/assets/91508322/da377ebf-723d-45a3-a779-7f4ed8c798ca)
 
-This is my first C2 Over http protocol.
+Yet another C2 in python :D , This is my first C2 Over http protocol.
 
 It has three parts , TeamServer , Handlers and Agents
 
@@ -19,6 +19,8 @@ Instructions
 3. Run Agents
 
 To kill an agent simply send the command 'kill' to said agents.
-
+# Inital Detection 
+![image](https://github.com/SoraAurora/FirstC2-OverHTTP-Python/assets/91508322/4d9dd346-68d3-459f-82fb-856b982ad661)
+So far not alot of signatures but pattern behaviour are quite suspicious which flagged alot overall not bad for first Implant :D
 # Change Log:
 12/7/2023 - Added ability to Control C2 Server through Discord Bots
