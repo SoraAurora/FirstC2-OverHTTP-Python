@@ -27,5 +27,4 @@ So far not alot of signatures but pattern behaviour are quite suspicious which f
 12/7/2023 - Added ability to Control C2 Server through Discord Bots
 
 
-
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjkwY3VyeDZudHlxcmJqb28wNDJhN2JkaW0xMzZnOHNtaWJ4YTJ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUxSaLgjcQbLO/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjkwY3VyeDZudHlxcmJqb28wNDJhN2JkaW0xMzZnOHNtaWJ4YTJ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUxSaLgjcQbLO/giphy.gif" width="40" height="40" />
